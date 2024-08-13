@@ -31,7 +31,7 @@
     "dayjs": "^1.10.6",
     "del": "^6.1.0",
     "disco-oauth": "^5.1.1",
-    "discord-api-types": "^0.30.0",
+    "discord-api-types": "^0.37.93",
     "discord.js": "^13.6.0",
     "ejs": "^3.1.6",
     "express": "^4.17.3",
