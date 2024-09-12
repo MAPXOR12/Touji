@@ -34,7 +34,7 @@
     "discord-api-types": "^0.30.0",
     "discord.js": "^13.6.0",
     "ejs": "^3.1.6",
-    "express": "^4.17.3",
+    "express": "^4.21.0",
     "express-session": "^1.17.2",
     "flagsmith": "^2.0.9",
     "flash": "^1.1.0",
